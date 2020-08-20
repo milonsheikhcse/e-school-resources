@@ -1,0 +1,120 @@
+
+.container{
+    padding: 42px;
+
+    
+}
+.man{
+    padding-top: 40px;
+}
+section{
+    background-color: #FFFFFF;
+}
+.head{
+    background-color: #F0FFF0;
+    
+    
+    padding-top: 45px;
+    padding-bottom: 73px;
+    right: 100%;
+    left : 100%;
+}
+
+.buy-now-btn {
+    background:#21B573;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 33px;
+    font-family: Roboto;
+
+}
+.card-footer {
+    border: none;
+    background: none;
+}
+.navbarTogglerDemo01{
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.categories{
+    margin-top: 100px;
+    font-weight: Extra-bold 800;
+}
+.categories img{
+    width: 520px;
+    height: 346px;
+    
+}
+.categories h5{
+    font-size: 16px;
+    color:#FD511A;
+}
+.categories h1{
+    font-size: 48px;
+  
+}
+.categories span{
+    color:#21B573;
+}
+
+.edu{
+    background-color: #F0FFF0;
+    height: 270px;
+    width: 270px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.edu img{
+   
+    height: 150px;
+    width: 85px;
+    padding-top: 40px;
+}
+
+
+
+ .edu:hover {
+    background-color: white;
+    transform: scale(1.09);
+}
+.online{
+    padding: 98px;
+    position: center;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);;
+}
+.hoc{
+    background-color: ;
+}
+.hoc:hover{
+    background-color: pink;
+}
+.card-img-top {
+    padding: 20px
+}
+.buy-now-btn1{
+    height: 40px;
+    width: 150px;
+    background:#21B573;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+    font-family: Roboto;
+
+}
+
+.footer{
+    border: none;
+    background-color: black;
+    color: #FFFFFF;
+}
+.pad{
+    padding: 15px;
+}
